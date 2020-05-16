@@ -33,7 +33,7 @@ The following are the files available in this repository:
 
 ## Results <a name="results"></a>
 
-I have documented all the findings from the result of this project and wrote a post and published it on Medium. Click [here]() to take you there.
+I have documented all the findings from the result of this project and wrote a post and published it on Medium. Click [here](https://medium.com/@siraj.the007/how-starbucks-can-attract-more-customers-2460e6fae70b) to take you there.
 
 
 ## License <a name="license"></a>
