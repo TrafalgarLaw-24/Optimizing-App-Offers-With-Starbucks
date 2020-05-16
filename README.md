@@ -38,7 +38,6 @@ In Jupyter notebook, go to the repo location and open the Starbucks_Capstone_Pro
 
 ## Sample Screenshots <a name="sample"></a>
 ![Alt text](https://github.com/TrafalgarLaw-24/Optimizing-App-Offers-With-Starbucks/blob/master/viz_plots_from_data/event_by_income.png)
-![Alt text](https://github.com/TrafalgarLaw-24/Optimizing-App-Offers-With-Starbucks/blob/master/viz_plots_from_data/portfolio_hist_plot.png)
 ![Alt text](https://github.com/TrafalgarLaw-24/Optimizing-App-Offers-With-Starbucks/blob/master/viz_plots_from_data/bogo_model_feature.png)
 
 ## Results <a name="results"></a>
