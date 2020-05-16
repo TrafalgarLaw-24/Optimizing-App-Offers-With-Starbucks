@@ -16,7 +16,7 @@ Anaconda distribution of Python. No other installation is needed The code should
 
 ## Getting Started <a name="started"></a>
 
-open the Starbucks_Capstone_Project_notebook.ipynb file in Jupyter notebook and start executing line by line.
+open the Starbucks_Capstone_Project_Notebook.ipynb file in Jupyter notebook and start executing line by line.
 
 
 ## Contents <a name="files"></a>
